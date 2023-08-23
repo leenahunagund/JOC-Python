@@ -15,6 +15,6 @@ print("hello "+t1)
 #gives hello yarley
 print("hello",t1)
 #gives hello yarley
-
+print("hello",t1,t2) #clubbing variables
 
       
