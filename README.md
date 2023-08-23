@@ -1,2 +1,3 @@
 # PythonCodes
 USING SPYDER IDE
+PYTHON 3.10
