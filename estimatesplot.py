@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep  6 11:01:20 2023
 
-@author: DELL
-"""
 import matplotlib.pyplot as plt
 import statistics 
 Estimates=[100,1200,3422,748,666,1209,821,77,300,27,854,982]
