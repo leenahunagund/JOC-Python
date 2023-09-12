@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 11 09:21:23 2023
 
-@author: DELL
-"""
 import random
 
 def choose():
