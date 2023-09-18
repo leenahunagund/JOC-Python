@@ -36,6 +36,7 @@ def magicsq(n):
             #  l.append(0)
             print(magics[i][j],end=" ")
         print()
+    print("the sum of each row, column and diagonal is :"+str(n*(n**2+1)/2))
     
 magicsq(3)
 
