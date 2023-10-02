@@ -22,7 +22,7 @@ for i in range(7):
     else:
         account=account-100
     print(account)
-print("lottery number: ",lottery)''''
+print("lottery number: ",lottery)'''
 
 
 '''import random
