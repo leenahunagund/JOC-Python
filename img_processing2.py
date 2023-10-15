@@ -1,6 +1,6 @@
 #image enhancement CLAHE
 
-import cv2
+import cv2 #opencv
 
 #read the image
 img=cv2.imread('img.jpeg')
